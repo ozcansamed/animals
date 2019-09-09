@@ -1,3 +1,5 @@
 Lion
 Elephant
 Jaguar
+Wolf
+Gazelle
